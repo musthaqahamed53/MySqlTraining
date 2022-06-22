@@ -1,1 +1,3 @@
-Learning JAVA is simple! by BUFFERED WRITER
+Learning JAVA is simple! by BUFFERED WRITER 
+Next line
+Third line

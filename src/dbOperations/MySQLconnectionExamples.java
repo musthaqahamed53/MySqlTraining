@@ -15,7 +15,7 @@ public class MySQLconnectionExamples {
 		//1.MENTION THE TYPE OF db TO BE USED -> mySQL
 		Class.forName("com.mysql.cj.jdbc.Driver");
 		
-		//2.create connection withDB by giving the DB details
+		//2.create connection with DB by giving the DB details
 		Connection connection = DriverManager.getConnection("jdbc:mysql://root@localhost/selenium_learning");
 		
 		//3.create a statement
